@@ -27,8 +27,8 @@ Select an Android emulator or, to test videos from your Camera Roll or live vide
 
 Some screenshots of the video classification results are as follows:
 
-<img src='https://github.com/mchhibber/Human-Action-Recognition-Android-App/blob/main/images/1.jpeg' width='324' height='648'></img>
-<img src='https://github.com/mchhibber/Human-Action-Recognition-Android-App/blob/main/images/2.jpeg' width='324' height='648'></img>
-<img src='https://github.com/mchhibber/Human-Action-Recognition-Android-App/blob/main/images/3.jpeg' width='324' height='648'></img>
+<img src='https://github.com/mchhibber/HAR/blob/main/images/1.jpeg' width='324' height='648'></img>
+<img src='https://github.com/mchhibber/HAR/blob/main/images/2.jpeg' width='324' height='648'></img>
+<img src='https://github.com/mchhibber/HAR/blob/main/images/3.jpeg' width='324' height='648'></img>
 
 
