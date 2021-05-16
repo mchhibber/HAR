@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HAR</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="select">Select Video Input</string>
+    <string name="live">Analyze Live Stream</string>
+</resources>
