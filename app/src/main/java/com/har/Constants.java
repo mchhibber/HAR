@@ -1,4 +1,4 @@
-package org.pytorch.demo.torchvideo;
+package com.har;
 
 public final class Constants {
 

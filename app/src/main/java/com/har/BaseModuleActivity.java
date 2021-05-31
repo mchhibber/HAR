@@ -1,5 +1,5 @@
 
-package org.pytorch.demo.torchvideo;
+package com.har;
 
 import android.os.Bundle;
 import android.os.Handler;

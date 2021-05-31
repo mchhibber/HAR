@@ -1,4 +1,4 @@
-package org.pytorch.demo.torchvideo;
+package com.har;
 
 import android.Manifest;
 import android.content.pm.PackageManager;

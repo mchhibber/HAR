@@ -1,4 +1,4 @@
-package org.pytorch.demo.torchvideo;
+package com.har;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
